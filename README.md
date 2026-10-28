@@ -20,7 +20,6 @@
 | web 1 | créer un site web grâce à VScode| rendre une chose plus facile à utiliser comme |  
 | Jeux vidéo | informatique | j'ai su créer un jeux en 2D qui représente le milieu de Zelda puis ça m'a permis de réaliser un de mes rêves, faire en sorte que les gens jouent à un jeu que j'ai créer |
 | Développement logiciel | web 1 | créer un site web| ça permet aux gens d'utiliser un site web qui pourrait leur être utile ou même pour soi, en effet, le fait de créer un formulaire pour savoir l'opinion des gens sur un sujet quelqueconque.|
-
 | Installations et expériences immersives | photographie | modifier les photos |
 
 ## Mes 2 domaines préférés
