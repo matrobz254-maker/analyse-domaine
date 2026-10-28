@@ -16,7 +16,7 @@
 |---|---|---|
 | Graphisme | fort | ça rend la vidéo/photo plus vive, plus cool à regarder |
 | Vidéo et animation 2D | fort |modifier une photo puis capable de la rendre plus animé comme si c'était, à la base, une vidéo naturel |
-| 3D  | faible |  |
+| 3D  | faible |la seule expérience que j'ai eu pour ceci était de faire une voiture miniaturisée et elle n'a pas réussi à rouler donc on a échoué ce projet.  |
 | web 1 | moyen| rendre une chose plus facile à utiliser comme la réservation de matériel en audio et etc. mais ça prend beaucoup de temps et de minusiosité.|  
 | Jeux vidéo | fort | par exemple, j'ai su créer un jeux en 2D qui représente le milieu de Zelda puis ça m'a permis de réaliser un de mes rêves, faire en sorte que les gens jouent à un jeu que j'ai créer |
 | Développement logiciel | fort | créer un site web, ça permet aux gens une certaine facilité, en effet, le fait de créer un formulaire pour savoir l'opinion des gens sur un sujet quelqueconque, c'est utile|
