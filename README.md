@@ -16,13 +16,9 @@
 |---|---|---|
 | Graphisme | illustration numérique | ça rend la vidéo/photo plus vive, plus cool à regarder |
 | Vidéo et animation 2D | illustration numérique |modifier une photo puis capable de la rendre plus animé comme si c'était, à la base, une vidéo naturel |
-
 | 3D  | Secondaire 4, Art plastique | à l'aide de l'application tinkercad, j'ai su faire de la modélisation 3D et su faire une voiture capable de rouler comme une voiture Hot Wheels |
-
 | web 1 | créer un site web grâce à VScode| rendre une chose plus facile à utiliser comme |  
-
 | Jeux vidéo | informatique | j'ai su créer un jeux en 2D qui représente le milieu de Zelda puis ça m'a permis de réaliser un de mes rêves, faire en sorte que les gens jouent à un jeu que j'ai créer |
-
 | Développement logiciel | web 1 | créer un site web| ça permet aux gens d'utiliser un site web qui pourrait leur être utile ou même pour soi, en effet, le fait de créer un formulaire pour savoir l'opinion des gens sur un sujet quelqueconque.|
 
 | Installations et expériences immersives | photographie | modifier les photos |
