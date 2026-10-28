@@ -17,7 +17,7 @@
 | Graphisme | illustration numérique | ça rend la vidéo/photo plus vive, plus cool à regarder |
 | Vidéo et animation 2D | illustration numérique |modifier une photo puis capable de la rendre plus animé comme si c'était, à la base, une vidéo naturel |
 
-| 3D  | Secondaire 4 | Art plastique | à l'aide de l'application tinkercad, j'ai su faire de la modélisation 3D et su faire une voiture capable de rouler comme une voiture Hot Wheels |
+| 3D  | Secondaire 4, Art plastique | à l'aide de l'application tinkercad, j'ai su faire de la modélisation 3D et su faire une voiture capable de rouler comme une voiture Hot Wheels |
 
 | web 1 | créer un site web grâce à VScode| rendre une chose plus facile à utiliser comme |  
 
