@@ -78,4 +78,6 @@ https://www.teamlab.art/
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon int<img width="1276" height="986" alt="Capture d’écran 2026-11-03 130050" src="https://github.com/user-attachments/assets/849a5b85-9137-4d69-8463-8fdb356a55a1" />
+erface OBS](obs.png)
+
