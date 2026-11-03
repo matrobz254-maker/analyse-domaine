@@ -38,18 +38,16 @@
 - Pourquoi il m'intéresse : ça me permet de modifier des photos dans ma galerie que j'aimerais rendre plus belle ou simplement pour le plaisir de modifier une photo. la plupart du temps, c'est très utile puisqu'une fois fini, je présente les images modifiées à mes parents pour savoir ce qu'il en pense.  
 - Travailler dans ce domaine : je ne pourrais pas travailler dans ce genre de domaine car c'est beaucoup trop de dextérité pour parvenir à avoir un résultat qui serait à la hauteur des attentes du boss.
 
-## Les caractéristiques de mon domaine préféré
+## Les caractéristiques de mon domaine préféré: Illustration numérique
 
 - Types d'entreprises : studios de création audiovisuels
 - Exemple d'entreprise : teamLab : des gens créatif pour ses œuvres numériques interactives qui fusionnent art, vidéo, programmation puis bonne organisation de leur site web.
 ce que j'aime est bien évidemment la manière dont est présenté le site web.
 
-![teamLab]()
-
 (source de l'image: https://tse2.mm.bing.net/th/id/OIP.4JQejSreZ2dpBv4QbLBdcgHaFK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 - Types de produits et de services : Ils offrent des œuvres numériques, des installations et des expériences que NOUS pouvons visiter. C'est de la l'art véritable
-- Étapes de production : C'est relié à l'art, design, programmation informatique, animation, son, architecture et ingénierie. Cela varie évidemment selon le projet ciblé 
+- Étapes de production : C'est relié à l'art, design, programmation informatique, animation, son, architecture et ingénierie. Cela varie évidemment selon le projet ciblé. 
 
 - Type d'emploi visé :  Cet entreprise vise principalement la création artistique ainsi que le design pour permettre aux utilisateurs une expérience hors du commun. leur mission est donc de concevoir des images, des formes, des couleurs, des mouvements et une expérience visuelle de qualité.
 - Étapes pour obtenir cet emploi :
@@ -71,10 +69,10 @@ ce que j'aime est bien évidemment la manière dont est présenté le site web.
 
 ## Conclusion
 
-- Mon profil en une phrase : je suis un garçon sportif prêt à surmonter n'importe quel défi en persévérant et jamais abandonner. 
-- Ce qui m'a surpris : que je sois toujours vivant malgré toutes les conneries que j'ai faite dans ma vie.
-- Ma force principale et la faiblesse à travailler : ma force principale serait ma positivité et ma faiblesse serait ma patience.
-- Mon action d'ici la fin de la session : être plus patient lorsque les gens me parlent parce que chaque humain à un rythme différent et il faut tous les respecter.
+- Mon profil en une phrase : je suis un garçon sportif prêt à surmonter n'importe quel défi en persévérant et jamais abandonner parce que je suis créatif et trouve toujours une solution à un problème quoiqu'il soit.
+- Ce qui m'a surpris : j'ai été surpris d'avoir découvert comment c'est compliquer de pouvoir travailler en tant que designer graphique et ça prend beaucoup trop de patience pour y arriver.
+- Ma force principale et ma faiblesse à travailler : ma force principale serait ma positivité et ma faiblesse serait ma patience.
+- Mon action d'ici la fin de la session : pouvoir mettre dans ma feuille de suivi le fait d'être plus patient lorsque les gens me parlent parce que chaque humain à un rythme différent et il faut tous les respecter. j'en jugera par la manière dont les enseigants me traite au courant des cours du programme TIM.
 
 ## Ma capsule
 
